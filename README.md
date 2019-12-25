@@ -1,4 +1,5 @@
 # 有結合Rxjava Android Permissions Manager
+# io.reactivex.rxjava2:rxjava:2.2.6
 Easily manage Android runtime permissions in API 23 `Marshmallow` and up. This library uses RXJava to skip all the painful parts of the `Activity`/`Fragment` lifecycle management.
 
 # Features
